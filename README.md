@@ -5,7 +5,7 @@ Quick-and-dirty boilerplate for legacy ES5 JS web projects that I intend to use 
 ## Everyday usage
 
 ```bash
-degit NicolasReibnitz/boilerplate-legacy my-new-project
+degit dasLaboratory/boilerplate-legacy my-new-project
 ```
 
 ## Initial installation
