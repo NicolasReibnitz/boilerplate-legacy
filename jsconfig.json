@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"module": "none",
+		"target": "es5"
+	},
+	"exclude": ["dist", "build", "playground"],
+	"include": ["src/js/**/*"],
+	"typeAcquisition": {
+		"include": ["jquery", "video.js", "reveal", "howler"]
+	}
+}
